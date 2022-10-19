@@ -8,9 +8,27 @@ Kavita adalah server membaca lintas platform yang cepat, kaya fitur. Dibangun de
 
 ## Instalasi
 
-- Prasyarat, apa saja yang harus diinstal sebelumnya.
-- Langkah instalasi dalam CLI.
+**Kebutuhan Sistem:**
+- Unix, Linux atau Windows.
+- RAM minimal 90 Mb+
 
+**Proses Instalasi**
+1. Unduh **Kavita** ke dalam direktori
+...
+wget https://github.com/Kareadita/Kavita/releases/download/v0.5.6/kavita-linux-x64.tar.gz
+...
+2. Ekstak file yang sudah diunduh
+...
+sudo gzip -d kavita-linux-x64.tar.gz
+...
+3. Gunakan chmod agar Kavita bisa mengakses direktori yang sudah disimpan
+...
+chmod +x ./Kavita
+...
+4. Jalankan program Kavita
+...
+./Kavita
+...
 
 ## Konfigurasi (opsional)
 
