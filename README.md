@@ -4,7 +4,7 @@
 ## Sekilas Tentang
 
 Deskripsi singkat tentang aplikasi tsb.
-
+Kavita adalah server membaca lintas platform yang cepat, kaya fitur. Dibangun dengan fokus untuk manga dan tujuan menjadi solusi lengkap untuk semua kebutuhan membaca Anda.
 
 ## Instalasi
 
@@ -56,3 +56,4 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 ## Referensi
 
 Cantumkan tiap sumber informasi yang anda pakai.
+https://github.com/Kareadita/Kavita
