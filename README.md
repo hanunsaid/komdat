@@ -1,6 +1,15 @@
 # Aplikasi Web "Kavita"
 ![android-chrome-256x256](https://user-images.githubusercontent.com/95085861/196993908-ec7d603c-a279-4d6a-ad71-5eaf52861e0e.png)
 
+# Anggota Kelompok 10
+| Nama                      | NIM           |
+| :--------------------     | :------------ |
+| Dhea Miranda Widana Putri | G6401201019   |
+| Hanun Attaya Said         | G6401201049   |
+| Nadira Arbanisa S.        | G6401201032   |
+
+---
+
 ## Sekilas Tentang
 
 Kavita adalah server membaca lintas platform yang cepat, kaya fitur. Dibangun dengan fokus untuk manga, e-book, dan komik dengan tujuan menjadi solusi lengkap untuk semua kebutuhan membaca Anda.
