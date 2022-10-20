@@ -81,7 +81,8 @@ chmod +x ./Kavita
         - Menggunakan metadata dan penguraian nama file untuk mengelompokkan ke dalam seri, volume, dll.
     - Kekurangan
         - Perlunya ada download tambahan khusus untuk metadata
-        - 
+        - Tidak akan berjalan pada prosesor (CPU) yang tidak mendukung set instruksi SSE4.2
+        - Menggunakan nama file untuk penguraian dan tidak didesain untuk menggunakan struktur folder.
 - Bandingkan dengan aplikasi web lain yang sejenis
     - Komga, lebih fokus pada Komik dan pengelolaan komik (termasuk membaca), tidak mendukung pembacaan dokumen berbasis teks apa pun sebagai teks (alias epub 
     dibaca sebagai gambar). Perangkat lunak hebat, UX alternatif, pengembangan aktif.
@@ -95,3 +96,4 @@ chmod +x ./Kavita
 
 Cantumkan tiap sumber informasi yang anda pakai.
 https://github.com/Kareadita/Kavita
+https://wiki.kavitareader.com/en
