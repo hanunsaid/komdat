@@ -1,5 +1,5 @@
 # Aplikasi Web "Kavita"
-
+![android-chrome-256x256](https://user-images.githubusercontent.com/95085861/196993908-ec7d603c-a279-4d6a-ad71-5eaf52861e0e.png)
 
 ## Sekilas Tentang
 
@@ -95,5 +95,5 @@ chmod +x ./Kavita
 ## Referensi
 
 Cantumkan tiap sumber informasi yang anda pakai.
-https://github.com/Kareadita/Kavita
-https://wiki.kavitareader.com/en
+- https://github.com/Kareadita/Kavita
+- https://wiki.kavitareader.com/en
