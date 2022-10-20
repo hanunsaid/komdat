@@ -3,7 +3,6 @@
 
 ## Sekilas Tentang
 
-Deskripsi singkat tentang aplikasi tsb.
 Kavita adalah server membaca lintas platform yang cepat, kaya fitur. Dibangun dengan fokus untuk manga, e-book, dan komik dengan tujuan menjadi solusi lengkap untuk semua kebutuhan membaca Anda.
 
 ## Instalasi
@@ -74,9 +73,22 @@ chmod +x ./Kavita
 ## Pembahasan
 
 - Pendapat anda tentang aplikasi web ini
-    - kelebihan
-    - kekurangan
+    - Kelebihan
+        - Bisa mengupload segala jenis file sesuai dengan yang dimasuki (Misal e-book bisa EPUB2, EPUB3, PDF dsb.)
+        - Berfokus pada pengalaman membaca dan menjelajahi koleksi pembaca. Pembaca epub dan pdf memungkinkan teks dan kaya fitur.
+        - Lintas Platform tanpa dependensi
+        - Mixed media Libraries
+        - Menggunakan metadata dan penguraian nama file untuk mengelompokkan ke dalam seri, volume, dll.
+    - Kekurangan
+        - Perlunya ada download tambahan khusus untuk metadata
+        - 
 - Bandingkan dengan aplikasi web lain yang sejenis
+    - Komga, lebih fokus pada Komik dan pengelolaan komik (termasuk membaca), tidak mendukung pembacaan dokumen berbasis teks apa pun sebagai teks (alias epub 
+    dibaca sebagai gambar). Perangkat lunak hebat, UX alternatif, pengembangan aktif.
+    -Calibre-Web, frontend yang lebih bagus untuk Calibre. Harus memiliki Calibre yang mengelola file. UX-nya jauh lebih bagus daripada aplikasi Calibre yang 
+    sebenarnya. Sangat fokus pada ebooks.
+    - Ubooquity, dikenal oleh semua orang. Memetakan folder-folder ke dalam kartu-kartu dan menyediakan pembaca dasar untuk cbz/cbr dan pdf (sebagai gambar). 
+    Tidak lagi dikembangkan.
 
 
 ## Referensi
