@@ -4,7 +4,7 @@
 ## Sekilas Tentang
 
 Deskripsi singkat tentang aplikasi tsb.
-Kavita adalah server membaca lintas platform yang cepat, kaya fitur. Dibangun dengan fokus untuk manga dan tujuan menjadi solusi lengkap untuk semua kebutuhan membaca Anda.
+Kavita adalah server membaca lintas platform yang cepat, kaya fitur. Dibangun dengan fokus untuk manga, e-book, dan komik dengan tujuan menjadi solusi lengkap untuk semua kebutuhan membaca Anda.
 
 ## Instalasi
 
@@ -29,31 +29,6 @@ chmod +x ./Kavita
 ```
 ./Kavita
 ```
-
-## Konfigurasi (opsional)
-
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
-- dll
-
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
-- dll
-
-
-##  Maintenance (opsional)
-
-Setting tambahan untuk maintenance secara periodik, misalnya:
-- buat backup database tiap pekan
-- hapus direktori sampah tiap hari
-- dll
-
-
-## Otomatisasi (opsional)
-
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
 ## Cara Pemakaian
