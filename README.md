@@ -10,7 +10,7 @@ Kavita adalah server membaca lintas platform yang cepat, kaya fitur. Dibangun de
 
 **Kebutuhan Sistem:**
 - Unix, Linux atau Windows.
-- RAM minimal 90 Mb+
+- RAM minimal 95 Mb+
 
 **Proses Instalasi**
 1. Unduh **Kavita** ke dalam direktori
@@ -32,10 +32,6 @@ chmod +x ./Kavita
 
 
 ## Cara Pemakaian
-
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
 1. Sebelum menggunakan Kavita, kita perlu membuat akun terlebih dahulu.
 ![image](https://user-images.githubusercontent.com/95017091/196713457-6941eecc-2c13-4e67-9ce9-f343e100c280.png)
